@@ -1,17 +1,15 @@
 ### Hi there 👋 I'm Kausar
-
-<!--
-**Moshood-Kausar/Moshood-Kausar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-     I'm a Mobile Developer and Frontend Web Developer 🤗
-     I love Automation❤ and I've worked on several projects using Arduino IDE and Arduino Kits and also worked on numerous WebPages(HTML, CSS and Javascript). I learnt different Programming Languages out of curiosity like Python, C+, Dart😂,but I'm passionate about learning  Flutter at the moment.
-     I launched my first Mobile EduTech Application on Playstore recently 😊, which is COETER
-- 🔭 I’m currently working on Safe Ride and COETER.
-- 🌱 I’m currently learning Flutter and Firebase😊
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+    I'm a Mobile Developer(Flutter),Frontend Web Developer 🤗and Yes  I love Automation❤!
+    I've worked on several projects using Arduino IDE and Arduino Kits💡
+    I've worked on numerous Website(HTML, CSS and Javascript) and also a Web Development Tutor🎀
+    You can call me a Jack of all Programming languages beacause I learnt Pyhton, C+, Dart out of curiousity😂😂 but I'm Passionate about learning Flutter and Firebase at the moment.
+    I launched my first Mobile EDUTECH recently on Playstore, which I named COETER(https://play.google.com/store/apps/details?id=com.kausar.oui)
+- 🔭 I’m currently working on/updating  COETER and Safe-Ride .
+- 🌱 I’m currently learning Flutter,Firebase and Engineering Approach towards solving problems😊
+- 👯 I’m looking to collaborate on any Flutter project or any open source projects(Automation)
+- 🤔 I’m looking for help with FINTECH, Machine Learning, API...
+- 💬 Ask me about Arduino, HTML,CSS,Flutter/Dart, Engineering Journals...
+- 📫 How to reach me: https://www.linkedin.com/in/kausar-moshood-0261981b5, https://wa.me/qr/AOZWVEMX4UVFP1
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+    
