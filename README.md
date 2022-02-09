@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kausar
+### Hi 👋 I'm Kausar
     I'm a Mobile Developer(Flutter),Frontend Web Developer 🤗and Yes  I love Automation❤!
     I've worked on several projects using Arduino IDE and Arduino Kits💡
     I've worked on numerous Website(HTML, CSS and Javascript) and also a Web Development Tutor🎀
