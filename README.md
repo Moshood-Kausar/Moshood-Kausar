@@ -13,5 +13,5 @@
 - 💬 Ask me about Arduino, HTML,CSS,Flutter/Dart, Engineering Journals...
 - 📫 How to reach me: https://www.linkedin.com/in/kausar-moshood-0261981b5, https://wa.me/qr/AOZWVEMX4UVFP1
 - 😄 Pronouns: She/Her
-
+[![Kausar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moshood-Kausar)](https://github.com/Moshood-Kausar/github-readme-stats)
     
