@@ -7,7 +7,7 @@
     but I'm Passionate about learning Flutter and Firebase at the moment.
     I launched my first Mobile EDUTECH recently on Playstore, which I named COETER.
     (https://play.google.com/store/apps/details?id=com.kausar.oui)
-     Yes... I'm just 19 years of age
+     Yes... 
 - 🔭 I’m currently working on/updating  COETER and Safe-Ride .
 - 🌱 I’m currently learning Flutter,Firebase and Engineering Approach towards solving problems😊
 - 👯 I’m looking to collaborate on any Flutter project or any open source projects(Automation)
